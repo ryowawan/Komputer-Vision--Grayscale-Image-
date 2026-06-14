@@ -25,5 +25,5 @@ Teknologi ini sudah sangat sering kita temui dalam kehidupan sehari-hari, antara
   Filter wajah di Instagram atau TikTok yang bisa menempel presisi di wajah penggunanya karena sistem mampu melacak titik-titik (landmark) wajah
 - **Kesehatan (Medis)**
   Menganalisis gambar medis seperti foto Rontgen, MRI, atau CT Scan untuk membantu dokter mendeteksi kelainan atau penyakit (seperti tumor) dengan lebih cepat dan akurat
-
-Industri dan Manufaktur: Sistem di pabrik yang secara otomatis memindai produk di ban berjalan untuk menyortir barang atau mendeteksi produk yang cacat (quality control).
+- **Industri dan Manufaktur**
+  Sistem di pabrik yang secara otomatis memindai produk di ban berjalan untuk menyortir barang atau mendeteksi produk yang cacat (quality control)
