@@ -30,3 +30,6 @@ Keterangan :
 
 ### 4️⃣ Mengubah warna menjadi Grayscale
 <img width="701" height="340" alt="image" src="https://github.com/user-attachments/assets/d06fdc27-d5c4-4eaf-8431-431b3f759c46" />
+
+Keterangan :
+- Kode pada sel keempat digunakan mengkonversi gambar dari BGR ke Grayscale dan tampilkan hasil gambar
