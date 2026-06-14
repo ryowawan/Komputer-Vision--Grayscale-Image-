@@ -4,3 +4,7 @@
 
 # Langkah-Langkah
 Berikut adalah panduan langkah demi langkah untuk mengubah gambar menjadi grayscale menggunakan Python di Google Colab. Kita akan menggunakan pustaka **OpenCV**, yang merupakan standar industri untuk Computer Vision.
+
+:one: Persiapan Google Colab
+- Buka browser dan masuk ke Google Colab
+- Klik New Notebook untuk membuat lembar kerja baru
