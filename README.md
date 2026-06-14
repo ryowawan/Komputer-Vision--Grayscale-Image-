@@ -8,12 +8,14 @@ Jika kamera adalah "mata" dari komputer, maka Computer Vision adalah "otak" yang
 Komputer pada dasarnya "melihat" gambar bukan sebagai bentuk atau warna yang utuh, melainkan sebagai susunan angka-angka (piksel) dalam bentuk matriks. Proses Computer Vision umumnya melibatkan langkah-langkah berikut
 1️⃣ Akuisisi Gambar   
    Mengambil data visual melalui kamera, sensor, atau file digital
+   
 2️⃣ Pra-pemrosesan (Pre-processing)   
    Mempersiapkan gambar agar lebih mudah dianalisis oleh mesin. Di sinilah teknik-teknik dasar seperti mengubah gambar menjadi Grayscale atau Binary Image, serta melakukan Edge Detection (seperti yang kita bahas sebelumnya) berperan
-5. Ekstraksi Fitur
+
+3️⃣ Ekstraksi Fitur
 
    Mengidentifikasi pola-pola unik dari gambar, seperti garis, sudut, bentuk, atau tekstur
-7. Pengenalan dan Klasifikasi
+4️⃣ Pengenalan dan Klasifikasi
 
    Menggunakan algoritma Machine Learning atau Deep Learning untuk membandingkan pola yang ditemukan dengan jutaan data yang sudah dipelajari sebelumnya, sehingga komputer bisa menyimpulkan, "Oh, ini adalah gambar kucing" atau "Ini adalah rambu berhenti."
 
