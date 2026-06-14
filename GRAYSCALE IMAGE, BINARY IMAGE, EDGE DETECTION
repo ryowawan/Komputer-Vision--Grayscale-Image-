@@ -1,1 +1,4 @@
+# Grayscale Image (Citra Keabuan)
 
+Apa itu? Citra yang hanya memiliki satu saluran (channel) informasi, yaitu intensitas cahaya, tanpa ada informasi warna. Nilai setiap pikselnya direpresentasikan dalam rentang 0 (hitam pekat) hingga 255 (putih terang).
+Kenapa digunakan? Gambar berwarna standar (RGB) memiliki tiga matriks data (Merah, Hijau, Biru). Mengubahnya menjadi grayscale menyusutkan ukuran data menjadi sepertiganya. Karena warna seringkali tidak relevan untuk mengenali bentuk geometri dasar, langkah ini sangat penting untuk mengurangi beban komputasi dan mempercepat pemrosesan.
