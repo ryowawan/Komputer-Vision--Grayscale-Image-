@@ -23,9 +23,9 @@ Keterangan :
 - Kode pada sel pertama digunakan untuk mengimport pustaka
 - Kode pada sel kedua digunakan untuk membaca gambar yang telah diunggah ke Google Drive
   
-  : pastikan tempat penyimpanan ("...") sesuai dengan tempat kalian upload
+  : ⚠️ pastikan tempat penyimpanan ("...") sesuai dengan tempat kalian upload
   
-  : atau kalian bisa cari gambar kemudian klik titik tiga (⋮) pilih "Copy path", kemudian paste ke ("...")
+  : ⚠️ atau kalian bisa cari gambar kemudian klik titik tiga (⋮) pilih "Copy path", kemudian paste ke ("...")
 - Kode pada sel ketiga digunakan menampilkan gambar
 
 ### 4️⃣ Mengubah warna menjadi Grayscale
