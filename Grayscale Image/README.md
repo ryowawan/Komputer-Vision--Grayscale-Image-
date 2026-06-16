@@ -3,7 +3,7 @@
 - **Kenapa digunakan?** Gambar berwarna standar (RGB) memiliki tiga matriks data (Merah, Hijau, Biru). Mengubahnya menjadi grayscale menyusutkan ukuran data menjadi sepertiganya. Karena warna seringkali tidak relevan untuk mengenali bentuk geometri dasar, langkah ini sangat penting untuk mengurangi beban komputasi dan mempercepat pemrosesan.
 
 # Langkah-Langkah
-Berikut adalah panduan langkah demi langkah untuk mengubah gambar menjadi grayscale menggunakan Python di Google Colab. Kita akan menggunakan pustaka **OpenCV**, yang merupakan standar industri untuk Computer Vision.
+Berikut adalah panduan langkah demi langkah untuk mengubah gambar menjadi Grayscale menggunakan Python di Google Colab. Kita akan menggunakan pustaka **OpenCV**, yang merupakan standar industri untuk Computer Vision.
 
 ### 1️⃣ Masuk Google Colab
 - Buka browser dan masuk ke Google Colab
